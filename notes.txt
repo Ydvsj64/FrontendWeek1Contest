@@ -1,0 +1,8 @@
+Useful Shortcut =>
+
+Ctrl + Z =>  to Undo (previous part)
+Ctrl + Y => to redo (next Part)
+Ctrl + A => select the entire file
+Ctrl + D => to select the next duplicate text
+alt and click => make you enable multi cursor whenever you want
+shift + click => Select the content between two cursor
